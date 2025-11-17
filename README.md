@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
 
-I'm a passionate Computer Engineering student with a strong foundation in various technologies and a keen interest in innovative solutions. Currently pursuing my B.Tech at Pimpri Chinchwad College of Engineering, I'm always eager to apply my academic knowledge to real-world projects and contribute to cutting-edge developments in the tech industry.
+I'm a passionate Computer Engineering student with a strong foundation in various technologies and a keen interest in innovative solutions. Completed B.Tech from Pimpri Chinchwad College of Engineering, I'm always eager to apply my academic knowledge to real-world projects and contribute to cutting-edge developments in the tech industry.
 
 ---
 
